@@ -1,2 +1,2 @@
 # KevinKH166
-PraktikumJS
+PraktikumJquery
